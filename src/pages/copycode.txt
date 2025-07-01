@@ -1,0 +1,46 @@
+<header
+		 class="z-40 flex py-12 px-30 items-center fixed top-0 w-full justify-between "
+		 >
+			<div>
+				<img class="h-20" src="/logo-claro.png" alt="logo velo"> 
+			</div>
+
+			
+					<div >
+				<button class="font-sans bg-amber-800 w-40 h-8  cursor-pointer text-amber-50 font-normal">
+					iniciar seccion
+				</button>
+			</div>
+		</header>
+
+		<section
+	class="bg-black h-screen w-scren text-center text-white overflow-hidden relative"
+	>
+
+		<header class="z-30 relative">
+				<h2 class="text-white pt-50 font-bold text-6xl ">Desata la creativida indepeniente</h2>
+		<p class="text-white font-light pt-15 text-3xl">Explora peliculas, cortometrajes y series independientes de 
+			cineastas de bajos recursos y aficionados al cine.
+		</p>
+
+		<footer class="top-15 z-30 relative ">
+				<a class="border ">
+				Sube tu obra maestra
+			
+			
+		</header>
+			
+
+			<div class=" absolute inset-0 z-20 ">
+				<img class="top-0 w-full h-full object-cover"
+				src="./public/bg-landing.jpg" alt=""
+				>
+
+			</div>
+	</section>
+
+	<section
+	class="bg-gray h-screen w-scren text-center text-white overflow-hidden relative"
+	>
+		
+	</section>

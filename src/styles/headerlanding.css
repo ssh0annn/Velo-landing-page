@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.HeaderLading{
+    padding: auto;
+    background-color: black;
+    display: flex;
+    padding: 30px ;
+    margin: 0 40;
+    
+}
